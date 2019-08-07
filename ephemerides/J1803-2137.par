@@ -1,0 +1,29 @@
+PSRJ           J1803-2137
+RAJ             18:03:51.4105            1 
+DECJ           -21:37:7.351              1 
+F0             7.478883395401293007      1  0.00000002537184727654   
+F1             -7.4881212908662972782e-12 1  4.9989377032489301376e-16
+PEPOCH         57600                       
+POSEPOCH       57600                       
+DMEPOCH        57600                       
+DM             233.99                       0.05000000000000000000   
+START          57962.485815686227102       
+FINISH         58421.237001338288135       
+TZRMJD         58185.878935984624889       
+TZRFRQ         836.0189820000000509     
+TZRSITE        mo   
+TRES           19013.914    
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+EPHEM          DE430
+NITS           1
+NTOA           52
+CHI2R          61.1019 47
+TNGlobalEF 2.45916
+TNGLobalEQ -3.20322
+TNRedAmp -8.81683
+TNRedGam 19.5923
+TNRedC 3
