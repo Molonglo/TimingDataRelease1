@@ -4,12 +4,8 @@ Online repository for the first open data release of the UTMOST pulsar timing pr
 ## Citation
 
 If you make use of any ephemerides or data contained in this repository, please cite:
-```
-M. E. Lower, M. Bailes, R. M. Shannon, S. Johnston, C. Flynn, S. Osłowski, V. Gupta, 
-W. Farah, T. Bateman, A. J. Green, R. Hunstead, A. Jameson, F. Jankowski, A. Parthasarathy,
-D. C. Price, A. Sutherland, D. Temby and V. Venkatraman Krishnan, The UTMOST pulsar timing 
-programme II: Timing noise across the pulsar population, (submitted).
-```
+
+[The UTMOST pulsar timing programme II: Timing noise across the pulsar population](https://ui.adsabs.harvard.edu/abs/2020arXiv200212481L/abstract)
 
 ## Data Format
 
